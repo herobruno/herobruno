@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Souza;I'm+20+years+old;I+am+from+Santigo,+RS;I+study+computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Souza;I'm+20+years+old;I+am+from+Santigo,+RS;I+study+computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
 
 
 
 
-# 📊 GitHub Stats:
+# <span style="color:green">📊 GitHub Stats:</span>
 ![](https://github-readme-stats.vercel.app/api?username=herobruno&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=herobruno&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=herobruno&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -41,10 +41,11 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bruno_sdss/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bruno-souza-3b7682254/) 
-[![](https://visitcount.itsvg.in/api?id=herobruno&icon=2&color=3)](https://visitcount.itsvg.in)
+[![GitHub Stats](https://img.shields.io/badge/-📊%20GitHub%20Stats-green)](https://github.com/herobruno)
+  ## 🌐 Socials:
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bruno_sdss/) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bruno-souza-3b7682254/)
+  [![](https://visitcount.itsvg.in/api?id=herobruno&icon=2&color=3)](https://visitcount.itsvg.in)
 
  
 
@@ -59,5 +60,5 @@
 
 
 <div style="width: 100%; height: 120px; background-color: green;">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
 </div>
