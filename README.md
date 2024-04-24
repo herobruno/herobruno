@@ -27,22 +27,24 @@
 
  
 ### Main skills:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&labelColor=0D1117&logoColor=339933)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=F7DF1E)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&labelColor=0D1117&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&labelColor=0D1117&logoColor=1572B6)&nbsp; 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&labelColor=0D1117&logoColor=563D7C)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=4479A1)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&labelColor=0D1117&logoColor=F24E1E)&nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;
-![Sequelize](https://img.shields.io/badge/Sequelize-399AF3?style=for-the-badge&logo=sequelize&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0D1117)&nbsp;
+![Sequelize](https://img.shields.io/badge/Sequelize-399AF3?style=for-the-badge&logo=sequelize&logoColor=white&labelColor=0D1117)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)&nbsp;
+
+
 
 
 
