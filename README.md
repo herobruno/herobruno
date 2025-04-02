@@ -1,19 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Souza;I'm+21+years+old;I+am+from+Santigo,+RS;I+study+computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
 
 
 
 
-# <span style="color:green">📊 GitHub Stats:</span>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=herobruno&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -45,8 +38,10 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=0D1117)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&color=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=0D1117)&nbsp;
-
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&color=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&color=0D1117)&nbsp;
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-1572B6?style=for-the-badge&logo=icloud&logoColor=white&color=0D1117)&nbsp;
 
 
 
@@ -70,5 +65,5 @@
 
 
 <div style="width: 100%; height: 120px; background-color: green;">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFF&height=120&section=footer"/>
 </div>
